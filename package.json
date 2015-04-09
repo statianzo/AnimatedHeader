@@ -1,0 +1,22 @@
+{
+  "name": "codrops-animated-header",
+  "version": "1.0.0",
+  "description": "A fixed header that will animate its size on scroll.",
+  "main": "js/cbpAnimatedHeader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/statianzo/AnimatedHeader.git"
+  },
+  "keywords": [
+    "browser"
+  ],
+  "author": "Codrops",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/statianzo/AnimatedHeader/issues"
+  },
+  "homepage": "https://github.com/statianzo/AnimatedHeader"
+}
